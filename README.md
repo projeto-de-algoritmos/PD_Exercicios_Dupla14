@@ -21,7 +21,7 @@ Exercicios do leetcode
 - Dificuldade: Easy
 - Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/pascals-triangle-ii/)
 - Para ter acesso ao arquivo com o código clique [aqui](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla14/blob/main/exercicios/Pascal'sTriangleII.py)
-- Para ter acesso ao vídeo clique [aqui]()
+- Para ter acesso ao vídeo clique [aqui](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla14/blob/main/videos/Pascal'sTriangleII.mp4)
 ![Imagem](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla14/blob/main/imagens/Pascal'sTriangleII.png)
 
 ### Maximal Square
@@ -29,7 +29,7 @@ Exercicios do leetcode
 - Dificuldade: Medium
 - Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/maximal-square/)
 - Para ter acesso ao arquivo com o código clique [aqui](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla14/blob/main/exercicios/MaximalSquare.py)
-- Para ter acesso ao vídeo clique [aqui]()
+- Para ter acesso ao vídeo clique [aqui](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla14/blob/main/videos/MaximalSquare.mp4)
 ![Imagem](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla14/blob/main/imagens/MaximalSquare.png)
 
 ## Instalação 
