@@ -1,1 +1,0 @@
-# Solucionar o exercicio
